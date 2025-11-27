@@ -26,7 +26,7 @@ How to Use
 3.  Run the program.
 4.  Copy your generated password and use it wherever needed.
 
-Requirements
+Requirements 
 
 -   Python 3.x
 
