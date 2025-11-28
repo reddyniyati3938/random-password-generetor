@@ -37,4 +37,4 @@ Example Usage
 Notes
 
 -   Avoid sharing your generated passwords with others.
--   Make sure to store them securely.
+-   Make sure to store them securely. 
