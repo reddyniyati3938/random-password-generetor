@@ -1,5 +1,5 @@
 # random-password-generetor
-simple random passwaord generetor in basic python
+simple random password generetor in basic python
 Random Password Generator
 
 Overview
